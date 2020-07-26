@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pulley
+  - Slope
+  - Turret
+  - Enemy
+  - Wall
+  - Turn
+  - Health
+  - Missile
+  - WinScreen
+  - Centipede
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Enemy
+  - Turret
+  - EnemyLocked
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 716650047
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 568764699
+    locked: 0
+  - name: Player
+    uniqueID: 2364955329
+    locked: 0
+  - name: NearestCamera
+    uniqueID: 1014903091
+    locked: 0
